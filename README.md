@@ -1,5 +1,5 @@
 # Fisica-2/LAB-2/B
-Snippet de codigo para hacer graficos plot simples para futura refencia propia, cambiar df de "x" e "y" segun sea necesario, usar sin headers.
+Snippet de codigo para hacer graficos plot simples para refencia propia, cambiar df de "x" e "y" segun sea necesario, usar sin headers.
 ## Ejemplo
 ![ejemplo](https://user-images.githubusercontent.com/100742706/195964395-5d58fca5-f9e0-42f2-91b0-42440cbfb9c3.png)
 
